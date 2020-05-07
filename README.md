@@ -2,8 +2,9 @@
 
 | OS Ver | Kernel Ver | Result |
 | ----- | ----- | ----- |
-| CentOS release 6.6 (Final) | Linux 2.6.32-504.el6.x86_64 | :+1: | 
 | CentOS release 5.9 (Final) | Linux 2.6.18-348.el5 | :x: |
+| CentOS release 6.6 (Final) | Linux 2.6.32-504.el6.x86_64 | :+1: | 
+| CentOS release 6.10 (Final) | Linux 2.6.32-754.28.1.el6.x86_64 | :x: | 
 
 
 
